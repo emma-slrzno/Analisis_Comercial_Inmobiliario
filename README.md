@@ -61,5 +61,5 @@ Dashboard de ventas de una cartera inmobiliaria en Colombia y México entre ener
 
 ## Contacto
 
-- LinkedIn: (https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
-- Perfil de Tableau Public: https://public.tableau.com/views/S11TripleTen/OverviewEjecutivo?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- LinkedIn: https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/
+- Perfil de Tableau Public: https://public.tableau.com/app/profile/emma.solorzano7415/vizzes
