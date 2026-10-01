@@ -86,6 +86,11 @@ Construir un **dashboard ejecutivo, visual e interactivo** que consolide los ind
 
 [⬆️ Volver arriba](#top) · [🇬🇧 Read in English](#en)
 
+# Contacto
+
+- LinkedIn: https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/
+- Perfil de Tableau Public: https://public.tableau.com/app/profile/emma.solorzano7415/vizzes
+
 ---
 
 <a id="en"></a>
@@ -159,5 +164,9 @@ Build a **visual, interactive executive dashboard** that consolidates the key co
 │   └── Dashboard.png    # Dashboard preview
 └── README.md            # Bilingual (ES/EN)
 ```
+# Contact
 
+- LinkedIn: https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/
+- Tableau Public profile: https://public.tableau.com/app/profile/emma.solorzano7415/vizzes
+  
 [⬆️ Back to top](#top) · [🇪🇸 Leer en español](#es)
